@@ -1,0 +1,86 @@
+/* Estilos generales */
+body {
+  font-family: 'Helvetica', sans-serif;
+  line-height: 1.6;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+/* Navbar estilizado */
+.navbar {
+  background-color: #3498db;
+  border-bottom: 2px solid #2980b9;
+}
+
+.navbar-brand {
+  color: #fff;
+  font-size: 24px;
+}
+
+.navbar-nav .nav-link {
+  color: #fff;
+}
+
+/* Estilos de las tarjetas (cards) */
+.card {
+  background-color: #fff;
+  border: 5.5px solid #ddd;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  transition: box-shadow 0.4s;
+}
+
+.card:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card img {
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+.card-img-top {
+  width: 340px; /* Ajusta el ancho deseado */
+  height: 340px; /* Ajusta la altura deseada */
+}
+
+.card-title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.card-text {
+  font-size: 14px;
+}
+
+/* Botones estilizados */
+.btn-primary {
+  background-color: #3498db;
+  border: 1px solid #3498db;
+}
+
+.redes-sociales {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+
+.btn-primary:hover {
+  background-color: #2980b9;
+  border: 1px solid #2980b9;
+}
+
+/* Footer estilizado */
+footer {
+  background-color: #1b3248;
+  color: #ecf0f1;
+  padding: 5px 1.5;
+  
+}
+
+/* Agregar estilos específicos para cada página según sea necesario */
+

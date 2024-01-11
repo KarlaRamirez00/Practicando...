@@ -1,0 +1,26 @@
+
+Propuesta de pagina web:  
+Debe contener al menos 5 vistas.  (inicio, registro de usuarios, login de usuarios ya registrados, galeria de perros en adopcion , galeria de gatos en adopcion, formulario de contacto para solicitar adopcion, carousel de imagenes pequeñas con 3 gatos y 3 perros actuales) 
+
+Consideraciones:
+Debe contener al menos un formulario web con sus respectivas validaciones.
+Debe utilizarse al menos 2 funciones en JavaScript.  
+Debe utilizarse framework de diseño Bootstrap version 4.4.1
+Debe tener como mínimo los siguientes componentes:
+carousel, navbar, modal, card, images.  
+
+Tengo estos archivos para usar en el proyecto:
+carpeta "mascotas2", dentro tengo carpeta "img", con estas imagenes: 
+foto_perro_gato.png 1000x587px (esta foto ira en la pagina de inicio en un div. abajo de ese div ira una grilla con dos columnas, una con formulario para login de usuarios registrados, y otra para que usuarios nuevos de registren)
+gato1_400.png  400x400px
+gato2_400.png  400x400px
+gato3_400.png  400x400px
+perro1_400.png  400x400px
+perro2_400.png  400x400px
+perro3_400.png  400x400px
+
+también dentro de la carpeta "mascotas2" tengo la carpeta "css" con el archivo style.css
+también dentro de la carpeta "mascotas2" tengo la carpeta "js" con el archivo javascript.js
+también dentro de la carpeta "mascotas2" tengo el archivo inicio.html, perros.html, gatos.html, contacto.html
+
+la idea es que todas las paginas funcionen y distribuyas las funciones segun mejor te parezca, dame una buena impresion
