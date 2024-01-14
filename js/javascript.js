@@ -3,7 +3,6 @@ document.addEventListener('DOMContentLoaded', function() {
     const mascotas = [
       { nombre: 'Rex', tipo: 'perro' },
       { nombre: 'Mochi', tipo: 'gato' },
-      // Agrega más mascotas según sea necesario
     ];
   
     // Función para mostrar las mascotas en la página
@@ -29,7 +28,7 @@ document.addEventListener('DOMContentLoaded', function() {
       const nombre = document.getElementById('nombre').value;
       const tipoMascota = document.getElementById('tipo-mascota').value;
   
-      // Simulación de envío de solicitud (puedes agregar lógica adicional aquí)
+      // Simulación de envío de solicitud 
       alert(`¡Solicitud enviada!\nNombre: ${nombre}\nTipo de Mascota: ${tipoMascota}`);
     });
   });
